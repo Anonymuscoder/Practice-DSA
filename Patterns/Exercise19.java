@@ -1,4 +1,4 @@
-//code for printing half pyramid using numbers
+//code for printing inverted half pyramid using numbers
 
 class Exercise19 {
     public static void main(String[] args) {
