@@ -1,4 +1,4 @@
-//code for printing star pyramid
+//code for printing hollow star pyramid
 
 class Exercise20 {
     public static void main(String[] args) {
