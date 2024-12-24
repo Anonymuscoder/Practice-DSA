@@ -1,4 +1,4 @@
-////Write a recursive function to print all numbers from 1 to n.
+//Write a recursive function to print all numbers from 1 to n.
 
 class practice12 {
     
