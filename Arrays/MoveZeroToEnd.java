@@ -1,4 +1,4 @@
-//code for moving zeros to the end of the array;
+//code for moving zeros to the end of the array
 
 import java.util.Scanner;
 
